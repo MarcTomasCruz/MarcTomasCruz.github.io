@@ -5,9 +5,7 @@ permalink: /about/
 ---
 
 # Education
-
 - **Double degree in Mathematics and Telematic Engineering**
-
 - **High School in Science Modality**
 
 # Experience
